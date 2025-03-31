@@ -1,1 +1,2 @@
 Sitemap: https://inzanty.github.io/sitemap.xml
+User-agent: *
